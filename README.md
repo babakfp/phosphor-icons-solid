@@ -20,7 +20,7 @@
 ## Installation
 
 ```
-pnpm add -D phosphor-icons-solid
+npm i phosphor-icons-solid
 ```
 
 ## Usage
