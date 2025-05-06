@@ -1,6 +1,6 @@
 {
     "name": "phosphor-icons-solid",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A component library for Phosphor Icons made to be used in Solid.",
     "license": "MIT",
     "repository": "github:babakfp/phosphor-icons-solid",
@@ -8,7 +8,7 @@
         "build": "tsc"
     },
     "peerDependencies": {
-        "solid-js": "^1.9.5"
+        "solid-js": "1.9.5"
     },
     "devDependencies": {
         "@types/node": "20.14.9",
